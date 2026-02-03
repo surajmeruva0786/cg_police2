@@ -1,0 +1,382 @@
+
+================================================================================
+    DAILY CRIME INTELLIGENCE BRIEF
+    Generated: 2026-02-03 15:12
+    Source: Automated Newspaper Agent (Real-time RSS Feeds)
+    AI Model: Llama 3.2 (Local)
+================================================================================
+
+📊 SUMMARY
+   • Total articles scanned: 120
+   • Crime incidents identified: 25
+   • Analysis method: Keyword-based
+   • News sources: Times of India, The Hindu, NDTV, India Today, Hindustan Times, Indian Express
+   • Crime categories: Cybercrime, Theft, Robbery, Violent Crimes, Fraud, Organized Crime
+
+================================================================================
+
+🚨 KEY INCIDENTS
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #1
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Russia fires over 70 missiles, 450 drones at Ukraine; iconic World War II memorial damaged
+
+🔍 Intelligence Summary:
+   Russia fires over 70 missiles, 450 drones at Ukraine; iconic World War II memorial damaged
+
+📌 Source: Times of India
+🔗 URL: https://timesofindia.indiatimes.com/world/europe/russia-fires-over-70-missiles-450-drones-at-ukraine-iconic-soviet-era-world-war-ii-memorial-damaged/articleshow/127880035.cms
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #2
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   'Effort to win trophies will continue': Rohit after being conferred Padma Shri
+
+🔍 Intelligence Summary:
+   Rohit Sharma, honored with the Padma Shri, expressed deep gratitude for the prestigious civilian award, calling it a momentous occasion for his family. He reaffirmed his unwavering dedication to secur...
+
+📌 Source: Times of India
+🔗 URL: https://timesofindia.indiatimes.com/sports/cricket/news/effort-to-win-trophies-for-my-country-will-always-continue-rohit-sharma-after-being-conferred-padma-shri-watch/articleshow/127880792.cms
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #3
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Apple’s first foldable iPhone design leaked online: Here’s what the smartphone may offer
+
+🔍 Intelligence Summary:
+   Apple's first foldable iPhone, rumored for a late 2024 launch, is reportedly adopting a book-fold design akin to Samsung's Galaxy Z Fold. Leaks suggest a 7.8-inch main display, a 5.3-inch cover screen...
+
+📌 Source: Times of India
+🔗 URL: https://timesofindia.indiatimes.com/technology/mobiles-tabs/apples-first-foldable-iphone-design-leaked-online-heres-what-the-smartphone-may-offer/articleshow/127878741.cms
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #4
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Uttarakhand man who shielded Muslim trader becomes social media star
+
+🔍 Intelligence Summary:
+   Deepak Kumar, who intervened to protect a Muslim shopkeeper from Bajrang Dal members, has gained significant online fame. Despite facing FIRs for assault and intimidation, Kumar remains resolute, stat...
+
+📌 Source: Times of India
+🔗 URL: https://timesofindia.indiatimes.com/city/dehradun/i-will-not-bow-down-to-hatred-kotdwar-man-who-shielded-muslim-trader-becomes-social-media-star/articleshow/127868375.cms
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #5
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Police to introduce locked house beat system in Belagavi
+
+🔍 Intelligence Summary:
+   Those interested can seek police assistance by sending a message to 8277951146, or meet the officials concerned before locking their houses for long periods
+
+📌 Source: The Hindu
+🔗 URL: https://www.thehindu.com/news/national/karnataka/police-to-introduce-locked-house-beat-system-in-belagavi/article70583930.ece
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #6
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   15-year-old boy dies after fall from apartment in Bengaluru, police book pub for serving liquor to minor
+
+🔍 Intelligence Summary:
+   Investigations revealed that the minor had gone to Legacy Brewing Company, located within the RR Nagar police station limits, with his classmates, where he allegedly consumed alcohol and smoked.
+
+📌 Source: The Hindu
+🔗 URL: https://www.thehindu.com/news/cities/bangalore/15-year-old-boy-dies-after-fall-from-apartment-in-bengaluru-police-book-pub-for-serving-liquor-to-minor/article70586271.ece
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #7
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Sabarimala gold row: LDF in Kerala questions Sonia Gandhi link to put Congress on the defensive
+
+🔍 Intelligence Summary:
+   Kerala Law Minister Rajeeve says Congress is ‘still at a loss to coherently explain’ the presence of two main suspects in the case at residence of Sonia Gandhi in Delhi
+
+📌 Source: The Hindu
+🔗 URL: https://www.thehindu.com/news/national/kerala/sabarimala-gold-row-ldf-in-kerala-questions-sonia-gandhi-link-to-put-congress-on-the-defensive/article70586519.ece
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #8
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Chennai triple murder of migrant family: Tamil Nadu government to facilitate shifting of bodies to Bihar
+
+🔍 Intelligence Summary:
+   On reports that assistance was required to move the bodies of the three deceased to their native State, Chief Minister Stalin instructed authorities to facilitate it free of cost
+
+📌 Source: The Hindu
+🔗 URL: https://www.thehindu.com/news/national/tamil-nadu/chennai-triple-murder-of-migrant-worker-family-tamil-nadu-government-to-facilitate-shifting-of-bodies-to-bihar/article70586350.ece
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #9
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Trump's Board Of Peace Could See US Firm Gain 300% Profits In Gaza: Report
+
+🔍 Intelligence Summary:
+   The document says the company is guaranteed returns of at least 300 per cent on its investment
+
+📌 Source: NDTV
+🔗 URL: https://www.ndtv.com/world-news/us-president-donald-trump-board-of-peace-could-see-us-firm-gothams-llc-gain-300-profits-in-gaza-report-10937024#publisher=newsstand
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #10
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Class 10 Bengaluru Boy Jumps To Death From 7th Floor After Drinking At Pub
+
+🔍 Intelligence Summary:
+   Police noted that the possibility of an accidental fall appears to be low. (Representational Image)
+
+📌 Source: NDTV
+🔗 URL: https://www.ndtv.com/bangalore-news/class-10-bengaluru-boy-jumps-to-death-from-7th-floor-after-drinking-at-pub-10937015#publisher=newsstand
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #11
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Air India Re-inspects Fuel Switches On Boeing 787s After Reported Defect
+
+🔍 Intelligence Summary:
+   Air India sources confirmed that the inspection process is half complete across the fleet.
+
+📌 Source: NDTV
+🔗 URL: https://www.ndtv.com/india-news/air-india-boeing-787-dreamliner-air-india-vice-presidents-letter-to-pilots-after-fuel-switch-controversy-10936699#publisher=newsstand
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #12
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Groom Kills Friend Hours Before Wedding Over Rs 1.5 Lakh Debt, Arrested
+
+🔍 Intelligence Summary:
+   His friend had apparently threatened to show up at the wedding venue.
+
+📌 Source: NDTV
+🔗 URL: https://www.ndtv.com/cities/beed-maharashtra-groom-kills-friend-hours-before-wedding-over-rs-1-5-lakh-debt-arrested-10936593#publisher=newsstand
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #13
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   3 Indians Arrested In Canada For Shooting Outside Surrey Home
+
+🔍 Intelligence Summary:
+   Surrey Police Service has urged people to share information on accused.
+
+📌 Source: NDTV
+🔗 URL: https://www.ndtv.com/world-news/3-indians-arrested-in-canada-for-shooting-outside-surrey-home-10936559#publisher=newsstand
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #14
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Uttarakhand's revenue police system | The policing gap
+
+🔍 Intelligence Summary:
+      Uttarakhand's revenue police system | The policing gap
+
+📌 Source: India Today
+🔗 URL: https://www.indiatoday.in/magazine/nation/story/20250728-uttarakhands-revenue-police-system-the-policing-gap-2757885-2025-07-18?utm_source=rss
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #15
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Anant Kumar Singh, jailed for murder of Dularchand Yadav in Bihar, takes oath as JD(U) MLA
+
+🔍 Intelligence Summary:
+   Anant Kumar Singh, a don-turned-politician, took the oath as a JD(U) MLA while in jail for the murder of Dularchand Yadav, a supporter of the Jan Suraaj Party.
+
+📌 Source: Hindustan Times
+🔗 URL: https://www.hindustantimes.com/india-news/anant-kumar-singh-jailed-for-murder-of-dularchand-yadav-in-bihar-takes-oath-as-jd-u-mla-101770108960578.html
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #16
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   'PM Modi sold the country': Rahul Gandhi on India-US deal ‘announced by Trump’
+
+🔍 Intelligence Summary:
+   Rahul said outside House “the PM has sold the country”, referring to the India-US trade deal announced last night by Donald Trump and confirmed later by PM Modi
+
+📌 Source: Hindustan Times
+🔗 URL: https://www.hindustantimes.com/india-news/pm-modi-sold-the-country-rahul-gandhi-on-india-us-deal-announced-by-trump-101770109015854.html
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #17
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   SC declines to interfere with stay on Maharashtra Cricket Association polls
+
+🔍 Intelligence Summary:
+   The CJI-led bench said that the MCA must pursue its remedies before the Bombay HC, which is slated to hear the matter again on Wednesday.
+
+📌 Source: Hindustan Times
+🔗 URL: https://www.hindustantimes.com/india-news/sc-declines-to-interfere-with-stay-on-maharashtra-cricket-association-polls-101770109560373.html
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #18
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Record 677 weapons recovered from Maoists in 2025; many linked to decades-old attacks
+
+🔍 Intelligence Summary:
+   In 2025, Chhattisgarh police recovered 677 weapons from Maoists, the highest in a year, tracing many to attacks over the last 20 years.
+
+📌 Source: Hindustan Times
+🔗 URL: https://www.hindustantimes.com/india-news/record-677-weapons-recovered-from-maoists-in-2025-many-linked-to-decades-old-attacks-101770108720251.html
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #19
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Woman farmer union activist killed with heavy object; body found in UP's Barabanki: Police
+
+🔍 Intelligence Summary:
+   Initial findings indicated that the woman was beaten to death, with investigators suspecting her head was smashed using a brick or another heavy object.
+
+📌 Source: Hindustan Times
+🔗 URL: https://www.hindustantimes.com/india-news/woman-farmer-union-activist-killed-with-heavy-object-body-found-in-ups-barabanki-police-101770106597901.html
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #20
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   SC slams WhatsApp over data sharing with Meta, calls it ‘theft’ of personal info
+
+🔍 Intelligence Summary:
+   The Supreme Court restrained WhatsApp from sharing user data with Meta, calling such data sharing exploitation of citizens’ privacy rights
+
+📌 Source: Hindustan Times
+🔗 URL: https://www.hindustantimes.com/india-news/sc-slams-whatsapp-over-data-sharing-with-meta-calls-it-theft-of-personal-info-101770106379281.html
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #21
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Founder of Punjabi Devils motorcycle club in California pleads guilty to dealing in illegal firearms
+
+🔍 Intelligence Summary:
+   Founder of Punjabi Devils motorcycle club in California pleads guilty to dealing in illegal firearms
+
+📌 Source: Indian Express
+🔗 URL: https://indianexpress.com/article/cities/chandigarh/founder-of-punjabi-devils-motorcycle-club-in-california-pleads-guilty-to-dealing-in-illegal-firearms-10510990/
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #22
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Official records and court filings | From kidnapping to bribes: Over 20 UT cops booked in 7 yrs
+
+🔍 Intelligence Summary:
+   Official records and court filings | From kidnapping to bribes: Over 20 UT cops booked in 7 yrs
+
+📌 Source: Indian Express
+🔗 URL: https://indianexpress.com/article/cities/chandigarh/official-records-and-court-filings-from-kidnapping-to-bribes-over-20-ut-cops-booked-in-7-yrs-10510977/
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #23
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Chinese national arrested for staying without visa at McLeodganj near Dharamshala
+
+🔍 Intelligence Summary:
+   Chinese national arrested for staying without visa at McLeodganj near Dharamshala
+
+📌 Source: Indian Express
+🔗 URL: https://indianexpress.com/article/cities/chandigarh/chinese-national-arrested-for-staying-without-visa-at-mcleodganj-near-dharamshala-10510962/
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #24
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Road rage shooting in Dhakoli leaves one  dead, another critical; accused held: cops
+
+🔍 Intelligence Summary:
+   Road rage shooting in Dhakoli leaves one  dead, another critical; accused held: cops
+
+📌 Source: Indian Express
+🔗 URL: https://indianexpress.com/article/cities/chandigarh/road-rage-shooting-in-dhakoli-leaves-one-dead-another-critical-accused-held-cops-10510970/
+
+
+────────────────────────────────────────────────────────────────────────────────
+INCIDENT #25
+────────────────────────────────────────────────────────────────────────────────
+
+📰 Headline:
+   Prince Narula reveals Elvish Yadav had gangsters call him after their fight on Roadies XX: ‘He ran away to Goa’
+
+🔍 Intelligence Summary:
+   Prince Narula reveals Elvish Yadav had gangsters call him after their fight on Roadies XX: ‘He ran away to Goa’
+
+📌 Source: Indian Express
+🔗 URL: https://indianexpress.com/article/entertainment/television/prince-narula-reveals-elvish-yadav-had-gangsters-call-him-after-their-fight-on-roadies-xx-10510432/
+
+
+================================================================================
+
+📝 NOTES
+   • This is an automated prototype using real-time RSS feeds and local Llama 3.2 model
+   • Human verification recommended for high-priority incidents
+   • For urgent matters, contact the Crime Coordination Center
+   • Report generated from live news sources at 2026-02-03 15:12
+   • Covers multiple crime categories: Cybercrime, Theft, Robbery, Violent Crimes, Fraud, etc.
+
+================================================================================
+End of Report
+================================================================================
