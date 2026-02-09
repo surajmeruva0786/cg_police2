@@ -1,0 +1,9 @@
+{
+    "real_frames_dir": "d:/github_projects/cg_police2/deepfake_classification/dataset/real",
+    "fake_frames_dir": "d:/github_projects/cg_police2/deepfake_classification/dataset/fake",
+    "real_masks_dir": "d:/github_projects/cg_police2/deepfake_classification/results/masks/real",
+    "fake_masks_dir": "d:/github_projects/cg_police2/deepfake_classification/results/masks/fake",
+    "predictor_path": "shape_predictor_68_face_landmarks.dat",
+    "output_dir": "results",
+    "force_rerun": false
+}

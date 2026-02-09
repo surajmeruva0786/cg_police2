@@ -1,0 +1,27 @@
+2026-02-09 21:36:07,125 - INFO - 
+############################################################
+2026-02-09 21:36:07,125 - INFO - DEEPFAKE DETECTION RESEARCH REPRODUCTION PIPELINE
+2026-02-09 21:36:07,126 - INFO - ############################################################
+
+2026-02-09 21:36:07,126 - INFO - Configuration: {
+  "real_frames_dir": "d:/github_projects/cg_police2/deepfake_classification/dataset/real",
+  "fake_frames_dir": "d:/github_projects/cg_police2/deepfake_classification/dataset/fake",
+  "real_masks_dir": "d:/github_projects/cg_police2/deepfake_classification/results/masks/real",
+  "fake_masks_dir": "d:/github_projects/cg_police2/deepfake_classification/results/masks/fake",
+  "predictor_path": "shape_predictor_68_face_landmarks.dat",
+  "output_dir": "results",
+  "force_rerun": false
+}
+
+2026-02-09 21:36:07,127 - INFO - 
+============================================================
+2026-02-09 21:36:07,127 - INFO - STEP 1: Extracting Facial Masks
+2026-02-09 21:36:07,127 - INFO - ============================================================
+
+2026-02-09 21:36:20,575 - INFO - Loaded shape predictor from shape_predictor_68_face_landmarks.dat
+2026-02-09 21:36:22,193 - INFO - Found 748 video directories
+2026-02-09 21:36:22,193 - INFO - 
+Processing video: df1_real_id0_0000
+2026-02-09 21:36:22,221 - INFO - Processing 47 frames from d:\github_projects\cg_police2\deepfake_classification\dataset\real\df1_real_id0_0000
+2026-02-09 21:36:22,711 - ERROR - Error in step 1: Unsupported image type, must be 8bit gray or RGB image.
+2026-02-09 21:36:22,712 - ERROR - Pipeline stopped. Fix the error and rerun.
