@@ -8,6 +8,12 @@ transformers>=4.35.0
 torch>=2.0.0
 pillow>=10.0.0
 
+# OCR for Newspaper Analysis
+pytesseract>=0.3.10
+
+# LLM Integration
+ollama>=0.1.0
+
 # Video Processing
 opencv-python>=4.8.0
 
