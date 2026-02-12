@@ -1,0 +1,22 @@
+2026-02-09 21:52:43,221 - INFO - 
+############################################################
+2026-02-09 21:52:43,221 - INFO - DEEPFAKE DETECTION RESEARCH REPRODUCTION PIPELINE
+2026-02-09 21:52:43,222 - INFO - ############################################################
+
+2026-02-09 21:52:43,222 - INFO - Configuration: {
+  "real_frames_dir": "d:/github_projects/cg_police2/deepfake_classification/dataset/real",
+  "fake_frames_dir": "d:/github_projects/cg_police2/deepfake_classification/dataset/fake",
+  "real_masks_dir": "d:/github_projects/cg_police2/deepfake_classification/results/masks/real",
+  "fake_masks_dir": "d:/github_projects/cg_police2/deepfake_classification/results/masks/fake",
+  "predictor_path": "shape_predictor_68_face_landmarks.dat",
+  "output_dir": "results",
+  "force_rerun": false
+}
+
+2026-02-09 21:52:43,223 - INFO - 
+============================================================
+2026-02-09 21:52:43,223 - INFO - STEP 1: Extracting Facial Masks
+2026-02-09 21:52:43,223 - INFO - ============================================================
+
+2026-02-09 21:52:43,411 - ERROR - Error in step 1: No module named 'dlib'
+2026-02-09 21:52:43,411 - ERROR - Pipeline stopped. Fix the error and rerun.
